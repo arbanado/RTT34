@@ -15,7 +15,7 @@ A brief summary of the topic
 ---
 
 Key Points
-Point 1:
+Point 1: This is my first point.
 Point 2:
 Point 3:
 
